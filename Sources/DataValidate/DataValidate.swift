@@ -1,7 +1,5 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
 import Foundation
 public enum ValidationPattern: String {
     case email = "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}"
