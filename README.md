@@ -1,6 +1,6 @@
-# DataValidator
+# DataValidate
 
-DataValidator is a lightweight Swift framework for validating common user input fields such as email, password, phone number, and more.
+DataValidate is a lightweight Swift framework for validating common user input fields such as email, password, phone number, and more.
 
 ## Features
 
@@ -14,7 +14,7 @@ DataValidator is a lightweight Swift framework for validating common user input 
 Add the following dependency to your `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/terwb/DataValidator.git", from: "1.0.0")
+.package(url: "https://github.com/terwb/DataValidate.git", from: "1.0.0")
 ```
 
 ### Manual Installation
@@ -25,7 +25,7 @@ Simply copy `DataValidate.swift` into your project.
 ### Importing the Framework
 
 ```swift
-import DataValidator
+import DataValidate
 ```
 
 ### Validating an Email
@@ -78,5 +78,5 @@ DataValidator is available under the MIT license. See the LICENSE file for more 
 
 ## Contributions
 
-Feel free to open issues or pull requests to improve DataValidator. 🚀
+Feel free to open issues or pull requests to improve DataValidate. 🚀
 
